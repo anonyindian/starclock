@@ -1,0 +1,19 @@
+========= Star Note =========
+StarDate Calculation Criteria
+=============================
+    
+Planet            Solar   Day
+Mercury 	      1,408 hours
+Venus 	          5,832 hours
+Earth 	          24    hours
+Mars 	          25    hours
+Jupiter 	      10    hours
+Saturn 	          11    hours
+Uranus 	          17    hours
+Neptune 	      16    hours
+_____________________________
+Total: 8          7343  hours
+_____________________________
+
+Mean Hours = 7343/8 = 917.875
+Mean Seconds = 33043050

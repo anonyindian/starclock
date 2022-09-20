@@ -1,0 +1,1 @@
+#define M_HOUR 917.875
